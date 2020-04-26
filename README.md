@@ -1,0 +1,1 @@
+[stretchybox](https://atcoder.jp/users/stretchybox) の競技プログラミング用ライブラリです
